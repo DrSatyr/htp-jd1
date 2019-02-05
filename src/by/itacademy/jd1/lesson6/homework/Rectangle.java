@@ -1,4 +1,4 @@
-package by.it_academy.jd1.lesson6.homework;
+package by.itacademy.jd1.lesson6.homework;
 
 public class Rectangle {
     private Point leftUpper;
